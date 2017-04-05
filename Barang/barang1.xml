@@ -1,0 +1,28 @@
+<logbarang>
+	<barang>
+		<kode>M1112</kode>
+		<satuan>pc</satuan>
+		<harga>4100</harga>
+		<dari>
+			<namaperusahaan>HannaCompany</namaperusahaan>
+			<alamat>Bandung</alamat>
+			<notelp>1234565</notelp>
+		</dari>
+		<tujuan>
+			<namaperusahaans>DilaCV</namaperusahaans>
+		</tujuan>
+	</barang>
+	<barang>
+		<kode>M1115</kode>
+		<satuan>pc</satuan>
+		<harga>6000</harga>
+		<dari>
+			<namaperusahaan>HannaCompany</namaperusahaan>
+			<alamat>Bandung</alamat>
+			<notelp>1234565</notelp>
+		</dari>
+		<tujuan>
+			<namaperusahaans>DilaCV</namaperusahaans>
+		</tujuan>
+	</barang>	
+</logbarang>
